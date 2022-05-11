@@ -17,7 +17,7 @@ jupyter notebook
 
 ### Every followup run
 
-``ssh
+```
 source .venv/bin/activate
 jupyter notebook
 
