@@ -1,0 +1,25 @@
+ipywidgets
+notebook
+matplotlib
+
+gensim
+wordcloud
+
+nltk
+svgling
+
+numpy
+pandas
+scikit-learn
+
+# spacy
+
+tqdm
+
+tensorflow
+tensorflow-datasets
+tensorflow-hub
+datasets
+
+transformers[tf-cpu]
+transformers[torch]
